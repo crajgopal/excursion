@@ -1,0 +1,46 @@
+/* Typography*/
+
+body
+{
+    font-family : 'Verdana';
+    background-color :black;
+    text-align: center;
+}
+
+h1{
+    color:white;
+    font-weight:400;
+    font-size :3.3rem;
+
+
+    }
+    p{
+        color:rgb(145, 138, 138);
+        font-weight:400;
+        font-size :1.25rem;
+    
+    
+        }
+    
+    h2, a{
+        color:rgb(138, 209, 138);
+        font-weight:200;
+        font-size :1rem;
+      
+        }
+
+        p.copy{
+            color:rgb(148, 140, 140);
+            text-align: right;
+
+
+        
+            }
+        
+
+    div.camp{
+   
+    display: block;
+    width: 100%;
+    
+}
